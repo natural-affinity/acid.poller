@@ -1,12 +1,12 @@
 {
   "name": "acid.poller",
   "version": "0.0.1",
-  "description": "Skeleton framework for asynchronous polling of resources.",
+  "description": "Skeleton framework for asynchronous polling of resources",
   "keywords": [
-    "mixin",
-    "chainable",
-    "underscore",
-    "validation"
+    "async",
+    "events",
+    "polling",
+    "backbone"
   ],
   "private": true,
   "repository": {
